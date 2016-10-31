@@ -7,20 +7,20 @@ This is a general guide for how to deal with browser and devices support for bui
 As a standard default unless agreed in the specification the following browsers and devices will be supported.
 
 ###PC
-Chrome - Latest Update (as per it’s auto-update procedure)
-Firefox - Latest Update (as per it’s auto-update procedure)
-Microsoft Edge - Latest Update (as per it’s auto-update procedure)
-Internet Explorer: Last two versions (10,11)
+* Chrome - Latest Update (as per it’s auto-update procedure)
+* Firefox - Latest Update (as per it’s auto-update procedure)
+* Microsoft Edge - Latest Update (as per it’s auto-update procedure)
+* Internet Explorer: Last two versions (10,11)
 
 ###Mac
-Chrome - Latest Update (as per it’s auto-update procedure)
-Firefox - Latest Update (as per it’s auto-update procedure)
-Safari - Latest Update (as per it’s auto-update procedure)
+* Chrome - Latest Update (as per it’s auto-update procedure)
+* Firefox - Latest Update (as per it’s auto-update procedure)
+* Safari - Latest Update (as per it’s auto-update procedure)
 
 
 ###Supported Devices
-IOS (iPad, iPhone) - Last two versions
-Android - Latest Update (as per it’s auto-update procedure) 
+* IOS (iPad, iPhone) - Last two versions
+* Android - Latest Update (as per it’s auto-update procedure) 
 
 
 ##Devices in general
