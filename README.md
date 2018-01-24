@@ -24,7 +24,7 @@ As a standard default unless agreed in the specification the following browsers 
 
 
 ##Devices in general
-Life of a phone can last up to four years if on a two year contract so will need to take into consideration for when testing. We do not test against Blackberry of Windows Phone but if the stats show a justifiable amount of users then we will test on these devices.
+Life of a phone can last up to four years if on a two year contract so will need to take into consideration for when testing. We do not test against Blackberry or Windows Phone but if the stats show a justifiable amount of users then we will test on these devices.
 
 ##Older Browsers
 With older browsers (for example Internet Explorer 9 and below) we will make sure that all content shows but will not necessarily be in the design that was signed off. It may well be the case that the content will just flow down the page and stack neatly.
