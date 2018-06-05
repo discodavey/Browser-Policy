@@ -10,7 +10,8 @@ As a standard default unless agreed in the specification the following browsers 
 * Chrome - Latest Update (as per it’s auto-update procedure)
 * Firefox - Latest Update (as per it’s auto-update procedure)
 * Microsoft Edge - Latest Update (as per it’s auto-update procedure)
-* Internet Explorer: Last two versions (10,11)
+* Internet Explorer: Version 11
+* Edge: Latest Update
 
 ###Mac
 * Chrome - Latest Update (as per it’s auto-update procedure)
